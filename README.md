@@ -39,7 +39,7 @@ To run the backend locally, follow these steps:
 4. Start the server:
 
     ```bash
-    npm start
+    nodemon server.js
     ```
 
 ## Contributing
